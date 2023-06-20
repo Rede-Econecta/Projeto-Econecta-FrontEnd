@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
 </div>
 
-<h2> Desenvolvedores</h2>
+<h2> Desenvolvedores:</h2>
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/christine-outi-kauffmann/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79487686?v=4" width="150px;" alt=""/><br /><sub><b>Christine Kauffmann </b></sub></a><br /><a href="https://github.com/chris-kauffmann" title="GetSet"></a></td>
