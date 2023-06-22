@@ -142,7 +142,7 @@ function Sobre() {
             desde a infancia, adorava passar horas instalando emuladores no
             computador. Tenho conhecimentos em Python, React, Bootstrap, Java,
             Spring Boot e agora estou em busca de oportunidades para aplicar
-            seus conhecimentos e continuar aprendendo.
+            meus conhecimentos e continuar aprendendo.
           </Typography>
 
           <Box display="flex">
